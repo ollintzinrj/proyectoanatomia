@@ -1,0 +1,44 @@
+.footer
+{
+  background-color: #37404C;
+  width: 100%;
+  height: 150px;
+  color: #fff;
+  display: table;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer .columna-wrap > div > a
+{
+  color: #fff;
+  text-decoration: none;
+  display: table-row;
+  line-height: 30px;
+}
+
+.columna-wrap
+{
+  display: table-cell;
+  width: 25%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.columna
+{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.logo-footer
+{
+  display: table;
+  /*font-family: 'Josefin Slab', serif;*/
+  font-family: 'Amatic SC', cursive;
+  font-size: 22px;
+  letter-spacing: 3px;
+  cursor: pointer;
+  margin-left: 15px;
+  margin-right: 15px;
+}
